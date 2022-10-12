@@ -1,0 +1,1 @@
+/Users/maratib/iwork/android/finger4/openCV/build/intermediates/cxx/RelWithDebInfo/592t531o/obj/x86
